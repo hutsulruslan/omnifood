@@ -1,5 +1,7 @@
 # Omnifood
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/659c655b-6c55-422b-a764-aec0e94b0fac/deploy-status)](https://app.netlify.com/projects/onifood-hutsdev/deploys)
+
 This repository contains the educational project "Omnifood" developed as part of a web development course. The project focuses on building a modern, responsive landing page for a fictional food delivery service called Omnifood.
 
 ## Key Features
